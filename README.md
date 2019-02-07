@@ -2,7 +2,7 @@
 react native expandable menu component for ios and android
 
 ## Demo
-![Alt Text](https://media.giphy.com/media/3tF6tN9UegiUnti9GJ/giphy.gif)
+![Alt Text](https://media.giphy.com/media/9V5eBPh4P5M7gFvY5C/giphy.gif)
 ## Installation
 ```npm install react-native-expandable-menu```
 
