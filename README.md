@@ -64,3 +64,12 @@ export default class App extends Component {
   }
 }
 ```
+
+## API
+| Props    | Type   | Description    | Default    |
+| -------- |:------:|:--------------:|:----------:|
+| expandingButton  | img  | button to expand menu items  | null   |
+| menuItems | img | list of menu item when toggle on and off | [] |
+| expandDuration  | number  | speed when expanding menu items  | 600     |
+| collapseDuration | number | speed when collapsing menu items | 1000 |
+| displacement | number | space between menu items when expand | 50 |
