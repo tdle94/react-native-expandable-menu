@@ -73,3 +73,6 @@ export default class App extends Component {
 | expandDuration  | number  | speed when expanding menu items  | 600     |
 | collapseDuration | number | speed when collapsing menu items | 1000 |
 | displacement | number | space between menu items when expand | 50 |
+
+## Contribution
+pull requests and issue are always welcome to enhance the component
